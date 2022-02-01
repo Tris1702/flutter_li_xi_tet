@@ -3,7 +3,7 @@
 Tạo vòng quay may rủi cho các bạn nhận Lì Xì chơi Tết.
 
 ## Public web bằng ngrok
-Terminal tạo folder chứa project:
+Terminal tại folder chứa project:
 ```groovy
 flutter build web
 cd build/web
